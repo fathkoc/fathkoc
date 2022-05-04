@@ -1,5 +1,5 @@
 - 👋 Hi, I’m fatihkoc
-- 👀 I’m interested in web devolop php javascript nodejs
+- 👀 I’m interested in web devolop php ,javascript,Codeigniter
 - 🌱 I’m currently learning ... JAVASCRİPT NODEJS  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...fathkccc@gmail.com
